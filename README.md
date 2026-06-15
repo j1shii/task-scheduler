@@ -22,3 +22,66 @@ Lets you add tasks with a name, priority, and deadline, then executes them in or
 
 1. Clone this repository
 2. Run the script:
+python scheduler.py
+3. Use the menu options to add tasks, execute the next task, or view the current queue.
+
+## Example
+Options: [1] Add task  [2] Execute next task  [3] View queue  [4] Exit
+
+Choose an option: 1
+
+Task name: Submit report
+
+Priority (lower number = more urgent): 1
+
+Deadline (e.g. 2026-06-20): 2026-06-18
+
+Added task: 'Submit report' (priority 1, deadline 2026-06-18)
+python scheduler.py
+3. Use the menu options to add tasks, execute the next task, or view the current queue.
+
+## Example
+Options: [1] Add task  [2] Execute next task  [3] View queue  [4] Exit
+
+Choose an option: 1
+
+Task name: Submit report
+
+Priority (lower number = more urgent): 1
+
+Deadline (e.g. 2026-06-20): 2026-06-18
+
+Added task: 'Submit report' (priority 1, deadline 2026-06-18)
+python scheduler.py
+3. Use the menu options to add tasks, execute the next task, or view the current queue.
+
+## Example
+Options: [1] Add task  [2] Execute next task  [3] View queue  [4] Exit
+
+Choose an option: 1
+
+Task name: Submit report
+
+Priority (lower number = more urgent): 1
+
+Deadline (e.g. 2026-06-20): 2026-06-18
+
+Added task: 'Submit report' (priority 1, deadline 2026-06-18)
+python scheduler.py
+3. Use the menu options to add tasks, execute the next task, or view the current queue.
+
+## Example
+Options: [1] Add task  [2] Execute next task  [3] View queue  [4] Exit
+
+Choose an option: 1
+
+Task name: Submit report
+
+Priority (lower number = more urgent): 1
+
+Deadline (e.g. 2026-06-20): 2026-06-18
+
+Added task: 'Submit report' (priority 1, deadline 2026-06-18)
+## Files
+
+- `scheduler.py` - main script implementing the TaskScheduler class and interactive CLI
